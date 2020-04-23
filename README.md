@@ -81,7 +81,8 @@ Answer : Register is one kind of concept of memory that can store data or comman
 
 
 
-마늘 수정 1
 
-마늘 수정 2
+ㅋ
+
+ㅇ
 
