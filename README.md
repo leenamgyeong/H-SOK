@@ -81,6 +81,7 @@ Answer : Register is one kind of concept of memory that can store data or comman
 
 
 
-# 마늘 커밋
+간식 맛있어 간식 좋아 누누누누ㅜ눈ㅇ
 
 아무노래나 일단 틀어 쉐끼쉐끼 휘바휘바 - 삐유웅 푸슈욱
+
