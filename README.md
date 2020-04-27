@@ -105,3 +105,8 @@ Answer : Register is one kind of concept of memory that can store data or comman
 * IPv4: 32bit IP 주소 입력 방식 (40억개) 
 * IPv6: 128bit IP 주소 입력 방식(거의 무한대) 
 * Pv6를 사용하는 이유: 기존의 IPv4로 표현할 수 있는 주소의 개수가 모자라서.
+
+
+## HTTP와 HTTPS의 차이점은 무엇일까요?
+### http는 텍스트로 정보를 주고 받는데, 데이터가 유출될 수 있음. 이 점을 보완하고자 https를 만듬. https를 쓰면 사용자와 서버 사이에 통신하는 내용들이 암호화가 되어 보안이 됨. 
+*차이점은 ssl 인증서 - 사용자가 사이트에 제공하는 정보를 암호화 해줌 -> 중간에 가로채도 뭔 내용인지 알 수가 없음, 악성코드에 감염되는 것을 막기도 함 
