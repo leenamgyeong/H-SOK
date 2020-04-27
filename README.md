@@ -2,7 +2,7 @@
 
 # 컴퓨터는 어떻게 동작할까?
 
-## [탐구활동 1] 컴퓨터는 무엇일까요? 여러분 스스로 컴퓨터에 대해 정의를 내려 봅시다.
+## 컴퓨터는 무엇일까요? 여러분 스스로 컴퓨터에 대해 정의를 내려 봅시다.
 
 1. 영상 "다양한 반복적인 작업을 대신 해줌"
 2. 마늘 "생각을 현실화해주는 도구"
@@ -10,13 +10,13 @@
 4. 다다 "귀찮은 일을 빨리 해주는 기계"
 5. 양갱 "다양함(즐거움, 복잡함 등)을 주는 도구 / 여가를 즐길 수 있는, 버거운 일을 도와주는 용도가 되기도"
 
-## [탐구활동 2] 여러분이 생각하는 컴퓨터와 동일하게 동작하는 디바이스들을 일상에서 찾아 봅시다. 
+## 여러분이 생각하는 컴퓨터와 동일하게 동작하는 디바이스들을 일상에서 찾아 봅시다. 
 
 1. 닌텐도: 옆으로 이동하는 버튼을 누르면 기기 내부에서 입력값에 대한 계산을 완료한 뒤, 화면에 행동이 출력된다.
 2. 스마트폰: 내가 원하는 결과를 화면을 터치해서 입력하고 그 정보를 처리해 화면으로 띄워줌. 
 3. 노래방 기계: 자판은 키보드와 같은 역할을 하고, 그 정보를 중앙 장치에서 처리를 해서 모니터로 내가 선택한 노래를 출력한다. 
 
-## [탐구활동 3] What is the difference between register and transistor?
+## What is the difference between register and transistor?
 
 Answer : Register is one kind of concept of memory that can store data or command temporarily while CPU executes operation processing. Register is composed of a bunch of Flip-Flops which is a circuit that can store and maintain information of 1 bit. A value of 1 bit is decided by whether current flows to transistor.
 
@@ -54,7 +54,7 @@ Answer : Register is one kind of concept of memory that can store data or comman
 
 
 
-## [탐구활동 4] HDD와 SSD의 장단점을 각각 무엇일까요? 언제 우리는 HDD를 사용해야 할까요?
+## HDD와 SSD의 장단점을 각각 무엇일까요? 언제 우리는 HDD를 사용해야 할까요?
 
 1. HDD : 플래터가 회전하며 판독 및 기록을 하여 데이터를 읽고/쓰며 저장하는 비휘발성 저장 장치. 즉 데이터가 저장되면, 컴퓨터가 정료되어도 사용자가 지우거나 포맷하지 않는 이상 데이터는 항상 저장이 된 상태로 보관이 됨.
 * 장점: 용량당 가격이 저렴, 대용량, 장기간 보존 가능
@@ -69,11 +69,11 @@ Answer : Register is one kind of concept of memory that can store data or comman
 
 # Git
 
-## [탐구활동 1] Git을 왜 사용해야 할까요? 실제 생활에서 Git과 유사한 경험을 한 적이 있다면 공유해주세요.
+## Git을 왜 사용해야 할까요? 실제 생활에서 Git과 유사한 경험을 한 적이 있다면 공유해주세요.
 1. 양갱, 다다, 눙이 - 변경된 파일로 되돌아갈 수 있고, 한 폴더에서 실험적인 작업을 할 수 있는 게 간편해서 사용하는 게 아닐까 생각을 함.
 2. 마늘 - 한땀 앱 개발하면서 사용하고 있는데 작업을 하다가 코드가 날라가거나 실수가 생기는데 전 버전으로 돌아갈 때 유용하더라. 
 
-## [탐구활동 2] Git과 Github의 차이는 무엇일까요? 
+## Git과 Github의 차이는 무엇일까요? 
 1. Git
 * 변경 사항 추적 시스템
 2. GitHub
@@ -92,3 +92,6 @@ Answer : Register is one kind of concept of memory that can store data or comman
 2. 호비 (5개)
 3. 모두가 전달을 할 수 있다.
 4. 2명 이상의 친구와 연결이 되어야 정보를 전달 받을 수 있다. 하지만 시간이 늘어날 수 있다. 
+
+## 컴퓨터가 서버와 통신하는 과정을 설명하세요.
+* 사람이 주소를 입력 하면 -> DNS 시스템을 통해 ip 주소로 바꾼다. -> 이 때 너무 크면 packets이라는 단위로 쪼개짐 -> 해당 주소를 가진 서버를 찾는 방송을 한다 -> 해당하는 서버가 랜카드를 보여주면서 ip를 인증한다 -> TCP의 방식에 따라 포트를 이용해 물리적 주소에 해당하는 웹서버에 접근 -> 짠
